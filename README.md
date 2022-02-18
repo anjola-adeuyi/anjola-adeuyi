@@ -49,6 +49,10 @@ Feel free to get in touch.  :call_me_hand:
 -->
 
 
+<p align="left"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=anjola-adeuyi&color=blue&style=flat-square" alt="hashirshoaeb profile views" />
+</p>
+
 
 <!--
 **anjola-adeuyi/anjola-adeuyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
