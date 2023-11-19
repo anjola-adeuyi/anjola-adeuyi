@@ -13,7 +13,7 @@ I also like a social gathering, meet new friends, watching films, football and g
 
 Feel free to get in touch.  :call_me_hand:	
 
-## Flow me on social media
+## Follow me on social media
 
 <!--
 <a href="https://www.youtube.com/channel/UCSS0kFyF7KWjE19Rj9PgNQA?view_as=subscriber" target="_blank">
